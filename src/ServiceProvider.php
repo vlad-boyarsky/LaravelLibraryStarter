@@ -1,7 +1,7 @@
 <?php
 
 
-namespace FileSender;
+namespace RouteLib;
 
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
@@ -9,7 +9,7 @@ class ServiceProvider extends \Illuminate\Support\ServiceProvider
 
     public function boot()
     {
-        $this->loadRoutesFrom(__DIR__.'/')
+        $this->loadRoutesFrom(__DIR__ . '/../routes/route.php');
     }
 
 }
