@@ -1,8 +1,6 @@
 <?php
 
-
 namespace RouteLib;
-
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {

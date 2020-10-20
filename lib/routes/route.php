@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/routelib', function (){
+Route::get('/route-lib', function (){
    return "Work correct";
 });
 
