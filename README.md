@@ -13,4 +13,17 @@ Prepare repository for the library
         }
       }
 </pre>
+<hr>
+<h5>Laravel:</h5>
+<hr>
+<h6>composer.json</h6>
+<pre>
+     "repositories": [
+        {
+            "type": "path",
+            "url": "../lib"
+        }
+    ]
+</pre>
+
 
