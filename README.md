@@ -26,7 +26,7 @@ Prepare repository for the library
     ]
 </pre>
 <hr>
-page ../route-lib return page with message:
+URI /route-lib return page with message:
 
 <h4>Work correct 🥳</h4>
 
