@@ -3,6 +3,6 @@
 use Illuminate\Support\Facades\Route;
 
 Route::get('/route-lib', function (){
-   return "Work correct Work correct 🥳";
+   return "Work correct 🥳";
 });
 
